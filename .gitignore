@@ -1,0 +1,4 @@
+.DS_STORE
+dist
+.python-version
+orm_django.egg-info/
