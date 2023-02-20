@@ -37,3 +37,13 @@ DATABASES = {
     },
 }
 ```
+
+To use, just import it at the first line of your script file:
+
+```
+import orm
+```
+
+and you will be able to import and use all models form your apps.
+
+_Tested using Python > 3.7 and Django >= 4.0_
